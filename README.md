@@ -10,8 +10,12 @@ V1 :
 - boucle agentique
 - tools
 
+V2 : 
+- Les Skills
+
+V3 : 
+- La mémoire
+
 À venir :
-- skills
-- mémoire
 - état
 - garde-fous
